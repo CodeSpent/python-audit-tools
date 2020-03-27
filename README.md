@@ -2,7 +2,7 @@
 
 A collection of awesome tools for auditing your Python codebase!
 
-> Projects with an \* are no longer maintained. Use at your own risk.
+> Projects with an asterick (\*) are no longer maintained. Use at your own risk.
 
 ### Security
 
