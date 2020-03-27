@@ -2,9 +2,11 @@
 
 A collection of awesome tools for auditing your Python codebase!
 
+> Projects with an \* are no longer maintained. Use at your own risk.
+
 ### Security
 
-- [Bandit](https://github.com/openstack/bandit) - Python AST-based static analyzer from OpenStack Security Group.
+- [Bandit\*](https://github.com/openstack/bandit) - Python AST-based static analyzer from OpenStack Security Group.
 - [Pyre-Check](https://github.com/facebook/pyre-check) - Performant type-checking for Python.
 
 ### Dependencies
